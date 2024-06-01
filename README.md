@@ -18,4 +18,4 @@ The purpose of this exercise was to create an accordion in order to cover the fo
 ## Images
 
 ![Image 1](public/image.png)
-![Image 2](public/image2.png)
+![Image 2](public/image_2.png)

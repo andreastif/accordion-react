@@ -4,7 +4,7 @@ import { IAccordion } from "./Types";
 
 const accordionList: IAccordion[] = [
   {
-    id: 1,
+    id: 0,
     isOpen: false,
     fact: {
       title: "Where are these chairs assembled?",
@@ -12,7 +12,7 @@ const accordionList: IAccordion[] = [
     },
   },
   {
-    id: 2,
+    id: 1,
     isOpen: false,
     fact: {
       title: "How long do I have to return my chair?",
@@ -20,11 +20,20 @@ const accordionList: IAccordion[] = [
     },
   },
   {
-    id: 3,
+    id: 2,
     isOpen: false,
     fact: {
       title: "Do you ship to countries outside the EU?",
       text: "Excepturi velit laborum, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!",
+    },
+  },
+
+  {
+    id: 3,
+    isOpen: false,
+    fact: {
+      title: "Where do I apply my discount code?",
+      text: "Cras tincidunt in magna ut faucibus. In in tempor nisl. Donec venenatis aliquet nulla, cursus blandit nisi mollis a.",
     },
   },
 ];
