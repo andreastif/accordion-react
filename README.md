@@ -13,6 +13,7 @@ The purpose of this exercise was to create an accordion in order to cover the fo
 - Derived state
 - Controlled elements
 - When and how React renders state
+- The child prop
 
 ## Images
 
